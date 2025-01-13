@@ -1,0 +1,20 @@
+{
+    "name": "krisnaajiep/php-validator",
+    "description": "A personal form request validator utility for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Krisna Ajie",
+            "email": "krisnaajiep@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "KrisnaAjieP\\PHPValidator\\": "src/"
+        }
+    }
+}
